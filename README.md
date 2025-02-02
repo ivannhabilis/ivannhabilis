@@ -101,9 +101,9 @@ Feel free to reach out to me via GitHub or email for tech discussions, opportuni
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ivannhabilis&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivannhabilis&layout=compact&theme=radical)
 
 ---
 
