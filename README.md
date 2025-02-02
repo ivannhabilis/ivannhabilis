@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```markdown
+
 ![Ivann - Desenvolvedor e Especialista em TI](https://via.placeholder.com/800x200.png?text=Imagem+do+meu+trabalho)
 
 # Olá! Eu sou Ivann 👋
@@ -61,11 +61,8 @@ Sinta-se à vontade para entrar em contato comigo pelo GitHub ou por e-mail para
 
 Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e contribuições. 😊
 
-```
-
 ## Hi there 👋
 
-```markdown
 ![Ivann - Developer and IT Specialist](https://via.placeholder.com/800x200.png?text=Image+representing+my+work)
 
 # Hello! I'm Ivann 👋
@@ -111,5 +108,3 @@ Feel free to reach out to me via GitHub or email for tech discussions, opportuni
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and contributions. 😊
-
-```
