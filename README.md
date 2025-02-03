@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ivann - Developer and IT Specialist](https://br.freepik.com/fotos-gratis/plano-de-fundo-texturizado-hexadecimal-para-redes_36718623.htm#fromView=keyword&page=1&position=5&uuid=93e8628d-a7a2-4227-a625-3c3aae8a7676&from_element=categories_trends&new_detail=true&query=Wallpaper+Tecnologia)
+![Ivann - Developer and IT Specialist](https://img.freepik.com/fotos-gratis/plano-de-fundo-texturizado-hexadecimal-para-redes_23-2150080745.jpg)
 
 # Hello! I'm Ivann 👋
 
