@@ -1,4 +1,4 @@
-## Olá, tudo bem? 👋
+## Hi there 👋
 
 <!--
 **ivannhabilis/ivannhabilis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,55 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ivann - Desenvolvedor e Especialista em TI](https://via.placeholder.com/800x200.png?text=Imagem+do+meu+trabalho)
-
-# Olá! Eu sou Ivann 👋
-
-Sou um apaixonado por tecnologia e atuo como desenvolvedor e administrador de sistemas. Meu foco principal é proporcionar soluções eficientes e inovadoras no mundo da tecnologia.
-
-## 🚀 Minhas Habilidades
-
-- **Servidores Linux & Windows**
-  - Especialista em gerenciamento e manutenção de servidores.
-  - Experiência na implementação e administração de ambientes seguros e eficientes.
-
-- **Sistema SAP**
-  - Conhecimento em módulos e tecnologia SAP para otimização de processos empresariais.
-
-- **Redes (Roteadores & Switches)**
-  - Configuração e manutenção de redes para garantir conectividade e segurança.
-  
-- **Desenvolvimento Front End (em aprendizado)**
-  - Atualmente, aprimorando habilidades em JavaScript para design de interfaces modernas e responsivas.
-  - Conhecimentos em HTML e CSS para estruturas e estilos básicos de páginas web.
-
-- **Banco de Dados**
-  - Compreensão sólida de SQL para manipulação e consulta de dados.
-
-- **Eletrônica**
-  - Conhecimentos básicos em eletrônica, o que me ajuda a entender o hardware por trás das soluções de software.
-
-## 🌱 Em Aprendizado
-
-Atualmente, estou focado em aprimorar minhas competências em desenvolvimento front-end com **JavaScript** e explorando mais sobre frameworks modernos.
-
-## 📫 Contato
-
-Sinta-se à vontade para entrar em contato comigo pelo GitHub ou por e-mail para conversarmos sobre tecnologia, oportunidades ou apenas bater um papo!
-
----
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ivannhabilis&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivannhabilis&layout=compact&theme=radical)
-
----
-
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e contribuições. 😊
-
-## Hi there 👋
-
-![Ivann - Developer and IT Specialist](https://via.placeholder.com/800x200.png?text=Image+representing+my+work)
+![Ivann - Developer and IT Specialist](https://br.freepik.com/fotos-gratis/plano-de-fundo-texturizado-hexadecimal-para-redes_36718623.htm#fromView=keyword&page=1&position=5&uuid=93e8628d-a7a2-4227-a625-3c3aae8a7676&from_element=categories_trends&new_detail=true&query=Wallpaper+Tecnologia)
 
 # Hello! I'm Ivann 👋
 
